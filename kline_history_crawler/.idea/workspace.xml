@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="374f750e-5dcc-4bee-bcdf-130388d7b6ea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/kline_history_crawler$BlfClient__1_.coverage" NAME="BlfClient (1) Coverage Results" MODIFIED="1545896510051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bitflx" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$Unittests_for_test_websocket_WebSocketTest.coverage" NAME="Unittests for test_websocket.WebSocketTest Coverage Results" MODIFIED="1545660002517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/okex/websocket/tests" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$OkexWssClient.coverage" NAME="OkexWssClient Coverage Results" MODIFIED="1546501447377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/okex/websocket" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$bitflnex_long_short.coverage" NAME="bitflnex_long_short Coverage Results" MODIFIED="1549951222724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$OkexClient.coverage" NAME="OkexClient Coverage Results" MODIFIED="1545730355371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/okex/api" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$Client__1_.coverage" NAME="Client (1) Coverage Results" MODIFIED="1545567528991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/okex/api" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$Handler.coverage" NAME="Handler Coverage Results" MODIFIED="1546485322941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$Utils.coverage" NAME="Utils Coverage Results" MODIFIED="1545569033352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huobi/api" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$service.coverage" NAME="service Coverage Results" MODIFIED="1545898974049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$Client.coverage" NAME="Client Coverage Results" MODIFIED="1545730019813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/okex/api" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$huobi.coverage" NAME="huobi Coverage Results" MODIFIED="1546062170223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huobi/websocket" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1545550038681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/kline_history_crawler/Lib/site-packages/websocket" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$BinanceClient.coverage" NAME="BinanceClient Coverage Results" MODIFIED="1546495080518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bnb/api" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$server.coverage" NAME="server Coverage Results" MODIFIED="1548726488959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$huobi__1_.coverage" NAME="huobi (1) Coverage Results" MODIFIED="1545658279925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/kline_history/Websocket-Python3-demo" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$bitflnex_client.coverage" NAME="bitflnex_client Coverage Results" MODIFIED="1546849657534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bitflx/api" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$HuobiServices.coverage" NAME="HuobiServices Coverage Results" MODIFIED="1545728540511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huobi/api" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$BinanceClient__1_.coverage" NAME="BinanceClient (1) Coverage Results" MODIFIED="1545809102092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bnb/api" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$BfClient.coverage" NAME="BfClient Coverage Results" MODIFIED="1546569202004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bitflx" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$BnbWssClient.coverage" NAME="BnbWssClient Coverage Results" MODIFIED="1546482921056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bnb/websocket" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$kucoin.coverage" NAME="kucoin Coverage Results" MODIFIED="1549008841562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$HuobiClient.coverage" NAME="HuobiClient Coverage Results" MODIFIED="1545805979841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huobi/api" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1547111904436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$adapters.coverage" NAME="adapters Coverage Results" MODIFIED="1545576384000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/venv/Lib/site-packages/requests" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$main.coverage" NAME="main Coverage Results" MODIFIED="1546845196195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$handler.coverage" NAME="handler Coverage Results" MODIFIED="1546777299065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$WssClient.coverage" NAME="WssClient Coverage Results" MODIFIED="1546405095283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huobi/websocket" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$demo.coverage" NAME="demo Coverage Results" MODIFIED="1545726621032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huobi/websocket" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$_app.coverage" NAME="_app Coverage Results" MODIFIED="1545568160969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/venv/Lib/site-packages/websocket" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1545889446261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/okex/websocket" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$BlfClient.coverage" NAME="BlfClient Coverage Results" MODIFIED="1546504393130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bitflx" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$client.coverage" NAME="client Coverage Results" MODIFIED="1545816867586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bnb/websocket" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$time_test.coverage" NAME="time_test Coverage Results" MODIFIED="1547445926238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$HuobiServices__1_.coverage" NAME="HuobiServices (1) Coverage Results" MODIFIED="1545576339809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huobi/api" />
+    <SUITE FILE_PATH="coverage/kline_history_crawler$OkcoinSpotAPI.coverage" NAME="OkcoinSpotAPI Coverage Results" MODIFIED="1545729950296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/okex/api" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bitflx/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Solidity Contract" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>kline</find>
+      <find>dateparser</find>
+      <find>wss://stream.binance.com:9443</find>
+      <find>print</find>
+      <find>s</find>
+      <find>vlo</find>
+      <find>(vlo).10f</find>
+      <find>lambda x:  ['price'] * x['amoun</find>
+      <find>DataF</find>
+      <find>a</find>
+      <find>append</find>
+      <find>def append</find>
+      <find>price</find>
+      <find>__init__</find>
+      <find>insert_sql</find>
+      <find>WssClient</find>
+      <find>webs</find>
+      <find>self.</find>
+      <find>on_mess</find>
+      <find>keep_running</find>
+      <find>wss://stream.binance.com:9443/</find>
+      <find>real.okex.com</find>
+      <find>v2/stats1</find>
+      <find>32386.437922</find>
+      <find>https://api.bitfinex.com/v1/trades</find>
+      <find>trades</find>
+      <find>self.time = result_time</find>
+      <find>1546581840</find>
+      <find>o</find>
+      <find>requests</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/huobi/Utils.py" />
+        <option value="$PROJECT_DIR$/okex/OkcoinSpotAPI.py" />
+        <option value="$PROJECT_DIR$/okex/OkcoinFutureAPI.py" />
+        <option value="$PROJECT_DIR$/huobi/HuobiServices.py" />
+        <option value="$PROJECT_DIR$/okex/Client.py" />
+        <option value="$PROJECT_DIR$/huobi/api/hbdm_api_demo.py" />
+        <option value="$PROJECT_DIR$/huobi/api/HuobiDMService.py" />
+        <option value="$PROJECT_DIR$/huobi/websocket/demo.py" />
+        <option value="$PROJECT_DIR$/huobi/websocket/websocket_client-0.44.0-py2.py3-none-any.whl" />
+        <option value="$PROJECT_DIR$/okex/websocket/service.py" />
+        <option value="$PROJECT_DIR$/okex/websocket/client.py" />
+        <option value="$PROJECT_DIR$/huobi/api/HuobiServices.py" />
+        <option value="$PROJECT_DIR$/okex/api/OkcoinFutureAPI.py" />
+        <option value="$PROJECT_DIR$/okex/api/OkcoinSpotAPI.py" />
+        <option value="$PROJECT_DIR$/okex/api/Client.py" />
+        <option value="$PROJECT_DIR$/test/trade.py" />
+        <option value="$PROJECT_DIR$/binance/api/BinanceClient.py" />
+        <option value="$PROJECT_DIR$/bitfinex/BlfClient.py" />
+        <option value="$PROJECT_DIR$/blf/BlfClient.py" />
+        <option value="$PROJECT_DIR$/bit/BlfClient.py" />
+        <option value="$PROJECT_DIR$/config/params.ini" />
+        <option value="$PROJECT_DIR$/huobi/api/HuobiClient.py" />
+        <option value="$PROJECT_DIR$/huobi/api/TradeDetailHandler.py" />
+        <option value="$PROJECT_DIR$/huobi/websocket/TradeDetailHandler.py" />
+        <option value="$PROJECT_DIR$/util/handler.py" />
+        <option value="$PROJECT_DIR$/util/Util.py" />
+        <option value="$PROJECT_DIR$/util/Handler.py" />
+        <option value="$PROJECT_DIR$/huobi/websocket/huobi.py" />
+        <option value="$PROJECT_DIR$/service/service.py" />
+        <option value="$PROJECT_DIR$/service/Util.py" />
+        <option value="$PROJECT_DIR$/huobi/websocket/WssClient.py" />
+        <option value="C:/kline_history/websocket/python/okcoin_websocket.py" />
+        <option value="$PROJECT_DIR$/bnb/websocket/client.py" />
+        <option value="$PROJECT_DIR$/service/Handler.py" />
+        <option value="$PROJECT_DIR$/bnb/websocket/BnbWssClient.py" />
+        <option value="$PROJECT_DIR$/okex/websocket/OkexWssClient.py" />
+        <option value="$PROJECT_DIR$/bitflx/BlfClient.py" />
+        <option value="$PROJECT_DIR$/bitflx/BfClient.py" />
+        <option value="$PROJECT_DIR$/huobi/websocket/HuobiWssClient.py" />
+        <option value="$PROJECT_DIR$/service/handler.py" />
+        <option value="$PROJECT_DIR$/service/main.py" />
+        <option value="$PROJECT_DIR$/service/server.py" />
+        <option value="$PROJECT_DIR$/bitflx/api/bitflnex_client.py" />
+        <option value="$PROJECT_DIR$/bnb/api/BinanceClient.py" />
+        <option value="$PROJECT_DIR$/util/bitflnex_long_short.py" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+        <option value="$PROJECT_DIR$/test/MyToken.sol" />
+        <option value="$PROJECT_DIR$/test/time_test.py" />
+        <option value="$PROJECT_DIR$/test/kucoin.py" />
+        <option value="$PROJECT_DIR$/huobi/websocket/params.ini" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="140" />
+    <option name="y" value="60" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kline_history_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kline_history_crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kline_history_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kline_history_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="bitflx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kline_history_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kline_history_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="bitflx" type="462c0819:PsiDirectoryNode" />
+              <item name="websocket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kline_history_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kline_history_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="bnb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kline_history_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kline_history_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="bnb" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blockchainlearn" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\42515\PycharmProjects\kline_history_crawler\bitflx\websocket" />
+      <recent name="C:\Users\42515\PycharmProjects\kline_history_crawler\bitflx\api" />
+      <recent name="C:\Users\42515\PycharmProjects\kline_history_crawler\service" />
+      <recent name="C:\Users\42515\PycharmProjects\kline_history_crawler\util" />
+      <recent name="C:\Users\42515\PycharmProjects\kline_history_crawler\huobi\websocket" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\42515\PycharmProjects\kline_history_crawler\util" />
+      <recent name="C:\Users\42515\PycharmProjects\kline_history_crawler\config" />
+      <recent name="C:\Users\42515\PycharmProjects\kline_history_crawler\bitfinex\api" />
+      <recent name="C:\Users\42515\PycharmProjects\kline_history_crawler\okex\api" />
+      <recent name="C:\Users\42515\PycharmProjects\kline_history_crawler\okex\websocket" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.bitflnex_long_short">
+    <configuration name="BlfClient" type="PythonConfigurationType" factoryName="Python">
+      <module name="kline_history_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bitflx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\42515\PycharmProjects\kline_history_crawler\bitflx\websocket\BfClient.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="kline_history_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bitflnex_long_short" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kline_history_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/bitflnex_long_short.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kucoin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kline_history_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/kucoin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kline_history_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/service" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/service/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kline_history_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="time_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kline_history_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/time_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.BlfClient" />
+      <item itemvalue="Python.bitflnex_long_short" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.time_test" />
+      <item itemvalue="Python.kucoin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bitflnex_long_short" />
+        <item itemvalue="Python.kucoin" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.time_test" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\42515\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="374f750e-5dcc-4bee-bcdf-130388d7b6ea" name="Default Changelist" comment="" />
+      <created>1545542314504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545542314504</updated>
+      <workItem from="1545542319863" duration="5681000" />
+      <workItem from="1545548046036" duration="4378000" />
+      <workItem from="1545553122700" duration="15000" />
+      <workItem from="1545555918648" duration="216000" />
+      <workItem from="1545558047178" duration="33000" />
+      <workItem from="1545558100496" duration="112000" />
+      <workItem from="1545565139525" duration="39000" />
+      <workItem from="1545565294627" duration="5078000" />
+      <workItem from="1545576309179" duration="4220000" />
+      <workItem from="1545639414760" duration="1671000" />
+      <workItem from="1545654676135" duration="7144000" />
+      <workItem from="1545716741472" duration="6240000" />
+      <workItem from="1545728233081" duration="4603000" />
+      <workItem from="1545794085465" duration="10292000" />
+      <workItem from="1545889423694" duration="3934000" />
+      <workItem from="1545896553073" duration="3993000" />
+      <workItem from="1545959950018" duration="8194000" />
+      <workItem from="1545976399775" duration="15780000" />
+      <workItem from="1545999028483" duration="2180000" />
+      <workItem from="1546046195208" duration="5143000" />
+      <workItem from="1546055531525" duration="12719000" />
+      <workItem from="1546344576258" duration="4628000" />
+      <workItem from="1546392449096" duration="24629000" />
+      <workItem from="1546435778215" duration="2404000" />
+      <workItem from="1546477697819" duration="21292000" />
+      <workItem from="1546507095439" duration="4628000" />
+      <workItem from="1546564535536" duration="27402000" />
+      <workItem from="1546607861903" duration="17135000" />
+      <workItem from="1546696700037" duration="9829000" />
+      <workItem from="1546771371620" duration="5932000" />
+      <workItem from="1546777373836" duration="50247000" />
+      <workItem from="1546996328286" duration="6632000" />
+      <workItem from="1547048337843" duration="294000" />
+      <workItem from="1547048984033" duration="679000" />
+      <workItem from="1547087424367" duration="8388000" />
+      <workItem from="1547123780603" duration="21000" />
+      <workItem from="1547169212874" duration="8071000" />
+      <workItem from="1547391646088" duration="9187000" />
+      <workItem from="1547478595975" duration="3258000" />
+      <workItem from="1547529976656" duration="2671000" />
+      <workItem from="1547601297231" duration="6131000" />
+      <workItem from="1547730967201" duration="4000" />
+      <workItem from="1547731034128" duration="4451000" />
+      <workItem from="1547989616627" duration="9985000" />
+      <workItem from="1548382369230" duration="4682000" />
+      <workItem from="1548491855406" duration="1966000" />
+      <workItem from="1548580241007" duration="47000" />
+      <workItem from="1548653863568" duration="7813000" />
+      <workItem from="1548726321176" duration="2932000" />
+      <workItem from="1548754233989" duration="2870000" />
+      <workItem from="1548820263204" duration="1523000" />
+      <workItem from="1548855198510" duration="3917000" />
+      <workItem from="1548917752341" duration="1353000" />
+      <workItem from="1548987180438" duration="6081000" />
+      <workItem from="1549635869859" duration="806000" />
+      <workItem from="1549950500438" duration="1116000" />
+      <workItem from="1549980513339" duration="356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_websocket_WebSocketTest - 2018.12.24 at 22h 00m 02s.xml">
+      <configuration name="Unittests for test_websocket.WebSocketTest" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="365025000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22922252" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.86126006" visible="true" weight="0.4582744" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7821716" weight="0.46110326" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.21782842" side_tool="true" weight="0.46110326" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" show_stripe_button="false" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4978903" visible="true" weight="0.29289544" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.5021097" side_tool="true" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okex/api/OkexClient.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/okex/websocket/client.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>'{\&quot;ch\&quot;:\&quot;market.btcusdt.trade.detail\&quot;,\&quot;ts\&quot;:1545963125410,\&quot;tick\&quot;:{\&quot;id\&quot;:34271269842,\&quot;ts\&quot;:1545963125306,\&quot;data\&quot;:[{\&quot;amount\&quot;:0.138500000000000000,\&quot;ts\&quot;:1545963125306,\&quot;id\&quot;:3427126984220542855642,\&quot;price\&quot;:3568.980000000000000000,\&quot;direction\&quot;:\&quot;buy\&quot;}]}} '</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/service/Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitflx/api/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="44" column="48" lean-forward="true" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/dask-core-0.19.1-py37_0/Lib/site-packages/dask/dataframe/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="2693" column="33" selection-start-line="2693" selection-start-column="33" selection-end-line="2693" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/easyplot.png" />
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/cython-0.28.5-py37h6538335_0/Lib/site-packages/Cython/Build/Dependencies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5168">
+          <caret line="287" column="8" selection-start-line="287" selection-start-column="8" selection-end-line="287" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/seaborn-0.9.0-py37_0/Lib/site-packages/seaborn/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="276" column="8" selection-start-line="276" selection-start-column="8" selection-end-line="276" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="3969" column="4" selection-start-line="3969" selection-start-column="4" selection-end-line="3969" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/matplotlib/axes/_subplots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="940" column="4" selection-start-line="940" selection-start-column="4" selection-end-line="940" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="382" selection-start-line="382" selection-end-line="382" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="1610" selection-start-line="1610" selection-end-line="1610" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/sin_cos_2.png" />
+    <entry file="file://$PROJECT_DIR$/util/test.png" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="355" selection-start-line="355" selection-end-line="355" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="132" column="29" lean-forward="true" selection-start-line="132" selection-start-column="29" selection-end-line="132" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1594404364/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="3668" column="8" selection-start-line="3668" selection-start-column="8" selection-end-line="3668" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/bokeh-0.13.0-py37_0/Lib/site-packages/bokeh/core/property/containers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="214" column="8" selection-start-line="214" selection-start-column="8" selection-end-line="214" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1009" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28899">
+          <caret line="1531" column="8" selection-start-line="1531" selection-start-column="8" selection-end-line="1531" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/MyToken.sol" />
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6210" selection-start-line="6210" selection-end-line="6210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/time_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitflx/api/bitflnex_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myplot.png" />
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/kucoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/urllib3/packages/six.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="685" selection-start-line="685" selection-end-line="685" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/urllib3/connectionpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="599" selection-start-line="599" selection-end-line="599" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/bitfinex/rest/restv2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="533" selection-start-line="533" selection-end-line="533" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="515" selection-start-line="515" selection-end-line="515" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/api/HuobiClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/api/Utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding>
+            <element signature="e#166#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/trade.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/bitflnex_long_short.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24947">
+          <caret line="1320" selection-start-line="1320" selection-end-line="1320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="532" selection-start-line="532" selection-end-line="532" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/websocket/params.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/websocket/HuobiWssClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huobi/websocket/huobi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/params.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bnb/api/BinanceClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitflx/websocket/BfClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitflx/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
